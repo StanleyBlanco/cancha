@@ -1,0 +1,1 @@
+/home/stanley/Proyectos_ALGR/miercoles14/build/CMakeFiles/hello.dir
